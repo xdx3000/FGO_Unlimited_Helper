@@ -3,6 +3,7 @@
 
 帮你在FGO刷无限池，节约你的时间，变相延长你的生命。
 
+![节约生命](https://github.com/xdx3000/FGO_Unlimited_Helper/blob/master/sample/unlimited.png?raw=true "节约你的生命")
 
 目前有三个功能：
 
